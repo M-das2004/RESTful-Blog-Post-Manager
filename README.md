@@ -30,6 +30,3 @@ A full-stack CRUD (Create, Read, Update, Delete) application built with **Node.j
 | DELETE | /posts/:id | Remove a specific post |
 
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
